@@ -1,0 +1,23 @@
+wavs/1.wav|hello.
+wavs/2.wav|name? name? name?
+wavs/3.wav|my name's gogo.
+wavs/4.wav|hello.
+wavs/5.wav|my name's gogo. what's your name?
+wavs/6.wav|how are you?
+wavs/7.wav|i'm fine thank you.
+wavs/8.wav|how are you tony?
+wavs/9.wav|how are you?
+wavs/10.wav|tony, jeny.
+wavs/11.wav|my name's gogo. what's your name?
+wavs/12.wav|i'm fine thank you. how are you?
+wavs/13.wav|what's your name?
+wavs/14.wav|my name's gogo.
+wavs/15.wav|goodbye jeny, goodbye tony.
+wavs/16.wav|my name's gogo. what's your name?
+wavs/17.wav|my name's gogo. what's your name?
+wavs/18.wav|your name's Pod.
+wavs/19.wav|hello. my name's jeny.
+wavs/20.wav|hello. my name's tony.
+wavs/21.wav|how are you?
+wavs/22.wav|i'm fine, thank you. how are you?
+wavs/23.wav|i'm fine thank you.

@@ -1,0 +1,45 @@
+wavs/1.wav|hello.
+wavs/2.wav|name? name? name?
+wavs/3.wav|my name's gogo.
+wavs/4.wav|hello.
+wavs/5.wav|my name's gogo. what's your name?
+wavs/6.wav|how are you?
+wavs/7.wav|i'm fine thank you.
+wavs/8.wav|how are you tony?
+wavs/9.wav|how are you?
+wavs/10.wav|tony, jenny.
+wavs/11.wav|my name's gogo. what's your name?
+wavs/12.wav|i'm fine thank you. how are you?
+wavs/13.wav|what's your name?
+wavs/14.wav|my name's gogo.
+wavs/15.wav|goodbye jenny, goodbye tony.
+wavs/16.wav|my name's gogo. what's your name?
+wavs/17.wav|my name's gogo. what's your name?
+wavs/18.wav|your name's Pod.
+wavs/19.wav|hello. my name's jenny.
+wavs/20.wav|hello. my name's tony.
+wavs/21.wav|how are you?
+wavs/22.wav|i'm fine, thank you. how are you?
+wavs/23.wav|i'm fine thank you.
+wavs/24.wav|hello.
+wavs/25.wav|my name's gogo. how are you?
+wavs/26.wav|hello.
+wavs/27.wav|my name's gogo. what's your?
+wavs/28.wav|hello tony. hello jenny
+wavs/29.wav|i'm fine thank you.
+wavs/30.wav|hello. how are you?
+wavs/31.wav|peter. his name's peter.
+wavs/32.wav|may. her name's may.
+wavs/33.wav|his name's peter.
+wavs/34.wav|her name's may.
+wavs/35.wav|hello.
+wavs/36.wav|his name's.
+wavs/37.wav|his name's gogo.
+wavs/38.wav|what's his name?
+wavs/39.wav|name's tony.
+wavs/40.wav|what's her name?
+wavs/41.wav|her name's jenny.
+wavs/42.wav|his name's peter.
+wavs/43.wav|what's her name?
+wavs/44.wav|her name's may.
+wavs/45.wav|what's his name?
